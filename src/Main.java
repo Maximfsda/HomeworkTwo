@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         //Task1
         int i = 200;
         byte b = 100;
